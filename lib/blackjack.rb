@@ -7,7 +7,7 @@ def deal_card
 end
 
 def display_card_total
-  # code #display_card_total here
+  Rand
 end
 
 def prompt_user
